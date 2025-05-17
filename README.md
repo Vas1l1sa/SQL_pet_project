@@ -1,8 +1,8 @@
-Задачи: написать запросы на SQL к базе данных «Airbnb»
+**Задачи**: написать запросы на SQL к базе данных «Airbnb»
 
-Ссылка на песочницу: https://sql-academy.org/ru/sandbox
+**Ссылка на песочницу**: https://sql-academy.org/ru/sandbox
 
-Схема базы данных «Airbnb»:
+**Схема базы данных «Airbnb»**:
 
 
 
